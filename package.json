@@ -1,0 +1,24 @@
+{
+  "name": "simon_dice",
+  "version": "0.1.0",
+  "description": "Juego de memoria utilizando el teclado.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gigablack/Simon-Dice.git"
+  },
+  "author": "Gustavo Bethelmy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gigablack/Simon-Dice/issues"
+  },
+  "homepage": "https://github.com/gigablack/Simon-Dice#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.4"
+  }
+}
